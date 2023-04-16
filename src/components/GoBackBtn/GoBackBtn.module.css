@@ -1,0 +1,23 @@
+.goBackBtn {
+  margin-top: 15px;
+  margin-left: 15px;
+  width: 98px;
+  height: 28px;
+  background-color: white;
+  border: 1px solid #e0e3e8;
+  border-radius: 4px;
+}
+
+.goBackBtn:hover {
+  background-color: #d6d8dd;
+  border: 1px solid #e0e3e8;
+}
+
+.goBackLink {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
